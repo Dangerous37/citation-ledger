@@ -1,0 +1,23 @@
+{
+  "sources": {
+    "guide": "🔧 Save the receipt. Retry once. Save the receipt."
+  },
+  "citations": [
+    {
+      "source": "guide",
+      "quote": "Retry once."
+    },
+    {
+      "source": "guide",
+      "quote": "Retry twice."
+    },
+    {
+      "source": "missing",
+      "quote": "Retry once."
+    },
+    {
+      "source": "guide",
+      "quote": "Save the receipt."
+    }
+  ]
+}
